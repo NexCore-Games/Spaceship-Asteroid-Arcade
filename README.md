@@ -10,7 +10,6 @@ A retro-futuristic arcade game where you pilot a spaceship through an asteroid f
 ## How to Play
 
 - **Move**: Use the arrow keys (`↑`, `↓`, `←`, `→`) to navigate the spaceship.
-- **Shoot**: Press `Space` to fire lasers. Lasers have a cooldown period.
 - **Hyperspace**: Press `H` to teleport randomly (limited uses). Beware: a small chance of malfunction!
 - **Objective**: Avoid asteroids and fragments while shooting them to score points. Larger asteroids give more points.
 
